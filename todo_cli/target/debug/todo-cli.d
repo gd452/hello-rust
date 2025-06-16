@@ -1,0 +1,1 @@
+/Users/kakao/Development/hello-rust/todo_cli/target/debug/todo-cli: /Users/kakao/Development/hello-rust/todo_cli/src/app.rs /Users/kakao/Development/hello-rust/todo_cli/src/main.rs /Users/kakao/Development/hello-rust/todo_cli/src/storage.rs /Users/kakao/Development/hello-rust/todo_cli/src/todo.rs
